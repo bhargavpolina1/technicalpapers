@@ -172,7 +172,7 @@ Combining multiple values into a single value is called **aggregation**.
 	 FROM player_match_details
 	 WHERE year = 2011;
 	 
-**V)AVG**: Calculates the average of the values
+**V) AVG**: Calculates the average of the values
 
 	Eg:
 	 SELECT AVG(score)
