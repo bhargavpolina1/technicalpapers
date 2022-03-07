@@ -145,27 +145,27 @@ Cross Join is also called as CARTESIAN JOIN.
  ## Aggregation:
 Combining multiple values into a single value is called **aggregation**.
 ## Aggregate Functions:
-**I)COUNT**: Counts the number of values
+**I) COUNT**: Counts the number of values
 
 	Eg:
 	 SELECT COUNT()    
 	 FROM player_match_details;
 
-**II)SUM**: Adds all the values
+**II) SUM**: Adds all the values
 
 	Eg:
 	  SELECT SUM(score)
 	  FROM player_match_details
 	  WHERE name = "Ram";
 	  
-**III)MIN**: Returns the minimum value
+**III) MIN**: Returns the minimum value
 
 	Eg:
 	  SELECT MIN(score)
 	  FROM player_match_details
 	  WHERE year = 2011;
 	  
-**IV)MAX**: Returns the maximum value
+**IV) MAX**: Returns the maximum value
 
 	Eg:
 	 SELECT MAX(score)
