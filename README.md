@@ -179,8 +179,12 @@ Combining multiple values into a single value is called **aggregation**.
 	 FROM player_match_details
 	 WHERE year = 2011;
 
-
-
+## References:
+**1)** https://www.tutorialspoint.com/sql/index.htm
+	
+**2)** https://byjus.com/gate/difference-between-dbms-and-rdbms/
+	
+**3)** https://learning.ccbp.in/backend-development/course?c_id=5d03f5a4-a285-4e52-8a57-18f718c4859f&t_id=6b5cde2d-9f90-48c6-b262-2555c5d19e8e&s_id=ea72b1b4-984e-4235-9b25-962ab4cbbac8&enroll=true
 
 
 
